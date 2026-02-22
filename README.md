@@ -18,9 +18,13 @@ SEO Optimized: Structured for better visibility on search engines.
 
 Frontend: HTML, CSS, JavaScript, React.js
 
-Backend: Node.js
+Backend (Optional): Node.js, Express.js
 
-Database: MongoDB 
+Database (Optional): MongoDB / MySQL
+
+Email Integration: Nodemailer
+
 
 👩‍💻 Author
+
 Sabiya Banu
