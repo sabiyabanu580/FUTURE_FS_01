@@ -1,11 +1,26 @@
+Personal Professional Portfolio Website
 
-  # Personal Portfolio Website
+A modern and interactive portfolio website built to showcase my skills, projects, and professional experience. This project demonstrates my abilities in full-stack development, responsive web design, and professional web presentation.
 
-  This is a code bundle for Personal Portfolio Website. The original project is available at https://www.figma.com/design/YZxncsSdCbCLkMPjPTblAX/Personal-Portfolio-Website.
+🌟 Key Features
 
-  ## Running the code
+Interactive Resume: Highlight your education, skills, and experience dynamically.
 
-  Run `npm i` to install the dependencies.
+Projects Showcase: Display your completed projects with descriptions and links.
 
-  Run `npm run dev` to start the development server.
-  
+Contact Form: Send messages directly from the website, with optional email integration.
+
+Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
+
+SEO Optimized: Structured for better visibility on search engines.
+
+🛠 Technology Stack
+
+Frontend: HTML, CSS, JavaScript, React.js
+
+Backend: Node.js
+
+Database: MongoDB 
+
+👩‍💻 Author
+Sabiya Banu
